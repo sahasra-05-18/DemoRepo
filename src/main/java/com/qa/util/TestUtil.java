@@ -6,5 +6,9 @@ public class TestUtil {
 		System.out.println("testUtil");
 
 	}
+	public  void testUtil1() {
+		System.out.println("testUtil1");
+
+	}
 
 }
